@@ -1,0 +1,34 @@
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.card-footer {
+
+    display: flex;
+
+    flex-direction: column;
+
+}
+
+.card-footer .submit{
+
+    width: 100%;
+
+    height: 30px;
+
+    background-color: #9D1113;
+
+    border:none;
+
+    color:#e1e1e1;
+
+    margin: 10px 0;
+}
+.fundo{
+    color: #050202;
+}
+* {
+    background-color: #D5D6D8;
+}
