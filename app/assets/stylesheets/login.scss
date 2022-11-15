@@ -26,8 +26,102 @@
 
     margin: 10px 0;
 }
-.fundo{
-    color: #050202;
+
+.card-footer2 {
+
+    display: flex;
+
+    flex-direction: column;
+
+}
+
+.card-footer2 .submit{
+
+    width: 61%;
+
+    height: 30px;
+
+    background-color: #9D1113;
+
+    border:none;
+
+    color:#e1e1e1;
+
+    margin: 10px 0;
+}
+.card-footer3 {
+
+    display: flex;
+
+    flex-direction: column;
+
+}
+
+.card-footer3 .submit{
+
+    width: 100%;
+
+    height: 30px;
+
+    background-color: #9D1113;
+
+    border:none;
+
+    color:#e1e1e1;
+
+    margin: 10px 0;
+}
+.card-footer4 {
+
+    display: flex;
+
+    flex-direction: column;
+
+}
+
+.card-footer4 .submit{
+
+    width: 62%;
+
+    height: 30px;
+
+    background-color: #9D1113;
+
+    border:none;
+
+    color:#e1e1e1;
+
+    margin: 10px 0;
+}
+
+.card-footer5{
+
+    display: flow-root;
+
+    flex-direction: column;
+
+}
+.card-footer6 {
+
+    display: flex;
+
+    flex-direction: column;
+
+}
+
+.card-footer6 .submit{
+
+    width: 38%;
+
+    height: 30px;
+
+    background-color: #9D1113;
+
+    border:none;
+
+    color:#e1e1e1;
+
+    margin: 10px 0;
 }
 * {
     background-color: #D5D6D8;
